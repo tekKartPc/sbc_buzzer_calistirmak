@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 # tekKartPc.com
 # twitter.com/tekKartPc
